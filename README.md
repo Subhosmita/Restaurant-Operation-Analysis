@@ -1,4 +1,4 @@
-# RestaurantData-Analysis-SQL
+# Restaurant-Operation-Analysis
 
 Project Overview: Restaurant Operation Analysis
 ### Situation
